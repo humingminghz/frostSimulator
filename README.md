@@ -1,3 +1,3 @@
 # frostSimulator
-on Akka
-data simulatorfor Spark streaming project called frost 
+on Akka - 
+data simulatorfor Spark streaming project
